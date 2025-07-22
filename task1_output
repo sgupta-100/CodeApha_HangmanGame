@@ -1,0 +1,33 @@
+PS D:\Coding\Python> python -u "d:\Coding\Python\Project\hangman_game.py"
+Welcome to Hangman!
+Let's start HangMan!!
+
+Current word: ______
+Guess a letter: z
+OOPS!! Wrong guess!
+You have 5 guesses left.
+Current word: ______
+Guess a letter: q
+OOPS!! Wrong guess!
+You have 4 guesses left.
+Current word: ______
+Guess a letter: p
+Good guess!
+Current word: p_____
+Guess a letter: y
+Good guess!
+Current word: py____
+Guess a letter: n
+Good guess!
+Current word: py___n
+Guess a letter: o
+Good guess!
+Current word: py__on
+Guess a letter: t
+Good guess!
+Current word: pyt_on
+Guess a letter: h
+Good guess!
+Current word: python
+Congratulations! You've guessed the word!
+PS D:\Coding\Python>
